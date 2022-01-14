@@ -1,2 +1,4 @@
-# Chess-game
-Chess game with GUI and simple AI
+# Chess-game (in progress)
+Chess game with GUI
+
+Piece classes have been implemented so far
